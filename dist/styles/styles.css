@@ -4,7 +4,7 @@
         width: 66% !important;
     }
 
-    .login-form{
+    .login-form {
         margin: 5% 4% !important;
         width: auto !important;
     }
@@ -17,4 +17,12 @@
     .login-title {
         text-align: center !important;
     }
+}
+
+.car-stat {
+    width: unset !important;
+}
+
+.dashboard-table {
+    width: unset !important;
 }
