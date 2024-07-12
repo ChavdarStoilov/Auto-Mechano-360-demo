@@ -17,6 +17,10 @@
     .login-title {
         text-align: center !important;
     }
+    .my-logo {
+        left: 260px !important;
+        top: 10px !important;
+    }
 }
 
 .car-stat {
